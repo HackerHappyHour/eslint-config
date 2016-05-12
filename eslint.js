@@ -27,7 +27,7 @@ module.exports = {
 	"new-cap": ["error", {
 	  newIsCap: true,
 	  capIsNew: false
-	},
+	}],
 	"no-ternary": "error",
 	"no-confusing-arrow": "error",
 	"prefer-template": "error"
