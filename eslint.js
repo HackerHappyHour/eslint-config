@@ -22,7 +22,7 @@ module.exports = {
 	"no-multi-spaces": "error",
 	"no-proto": "error",
 	"no-with": "error",
-	"wrap-iife: ["error", "any"],
+	"wrap-iife": ["error", "any"],
 	"no-new-require":"error",
 	"new-cap": ["error", {
 	  newIsCap: true,
