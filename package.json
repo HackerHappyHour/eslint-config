@@ -1,0 +1,25 @@
+{
+  "name": "@h3/eslint-config",
+  "version": "1.0.0",
+  "description": "Official HackerHappyHour eslint configuration",
+  "main": "eslint.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HackerHappyHour/eslint-config.git"
+  },
+  "keywords": [
+    "eslint-config"
+  ],
+  "author": "Brian Vanderbusch <brian.vanderbusch.qsho@statefarm.com> (https://github.com/CHIEFnChowCombo)",
+  "license": "MIT",
+  "publishConfig":{
+ 	"access":"public" 
+  },
+  "bugs": {
+    "url": "https://github.com/HackerHappyHour/eslint-config/issues"
+  },
+  "homepage": "https://github.com/HackerHappyHour/eslint-config#readme"
+}
