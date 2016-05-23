@@ -14,7 +14,7 @@ Add one of the following to your project's `.eslintrc.*` file:
 
 ```javascript
 {
-  extends: "@h3/eslint-config",
-  extends: "@h3/eslint-config/yolk"
+  extends: "h3",
+  extends: "h3/yolk"
 }
 ```
